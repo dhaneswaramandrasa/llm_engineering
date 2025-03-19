@@ -1,0 +1,20 @@
+Senior Data Scientist
+ Jakarta Permanent / Full Time
+About The Company:
+A pioneer in legal tech in Indonesia with primary focus is on providing online legal consultation services, connecting clients with professional advocates across various legal matters. 
+
+Job Responsibilities: 
+Analyze and leverage large-scale legal consultation data to improve platform efficiency, advocate-client matching, and user experience.
+Develop data-driven models to optimize service delivery, ensuring seamless and efficient legal consultations.
+Enhance search and recommendation systems to connect users with the most relevant legal professionals based on their needs.
+Build and maintain data pipelines to support structured and unstructured legal case data for insights and analytics.
+Collaborate with engineering and product teams to integrate data-driven enhancements into the platform, improving engagement and accessibility.
+Research and apply advanced analytics techniques to refine user behavior analysis, fraud detection, and service optimization.
+Monitor, evaluate, and continuously improve data-driven decision-making processes to ensure transparency, accuracy, and trust in the platform.
+Key Requirements: 
+Minimum 5 years of experience in data science roles, with intersection in the AI/ML field.
+Bachelor's degree in Computer Science or related field, Master's degree in Behavioral Science would be a plus.
+Strong proficiency in Python, SQL, including experience with data science libraries such as Pandas and NumPy.
+Experience with machine learning frameworks, such as Scikit-learn.
+Hands-on experience with data analysis and visualization tools, including Tableau and Power BI.
+Strong analytical mindset with the ability to translate business challenges into data-driven solutions.
