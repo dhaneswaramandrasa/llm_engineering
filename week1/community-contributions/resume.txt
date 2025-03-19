@@ -1,50 +1,10 @@
-Dhaneswara Mandrasa - BSD, Tangerang, Banten - +62 85156073967 / +971 568294544dhaneswara.mandrasa@gmail.com
+John Doe
+Software Engineer
+Experience:
+- Developed web applications using Python and JavaScript.
+- Collaborated with cross-functional teams to deliver projects on time.
+Education:
+- B.S. in Computer Science from XYZ University.
+Skills:
+- Python, JavaScript, React, SQL
 
-PERSONAL STATEMENT 6+ years of data science and analytics experience in Telco, Spatial, and Oil & Gas industries. Skilled in delivering data-driven insights and solutions to enhance business accuracy, efficiency, and productivity. Combines expertise in earth sciences and data science to address spatial and environmental challenges. Proven ability to lead cross-functional teams and drive innovation in AI/ML projects.
-
-EXPERIENCES
-Data Science Lead | iZeno, Jakarta | July 2024 – Current
-	•	Architected an LLM-powered news analytics system for Labuan using Cortex:
-	◦	Developed web scraping solutions for Bloomberg and Malaysian news sources.
-	◦	Engineered multilingual LLM pipelines for news categorization/translation.
-	◦	Integrated data workflows with Neo4j graph databases and on-premise systems.
-	•	Led a cross-functional team to build a diagnostic root cause analysis system for Sinarma’s plantations using Dataiku.
-	•	Designed banking solutions for Bank Bill (recommendation system, credit scoring model) using Dataiku.
-	•	Mentored data scientists and conducted technical workshops.
-	•	Tools: Dataiku, Snowflake, Python, SQL, Spark ML, PySpark.
-Senior Data Scientist | Eureka AI, Abu Dhabi | April 2021 – June 2024
-	•	Developed Market Intelligence products contributing 5–70% of company revenue.
-	•	Built segmentation models for 100M+ daily users using PySpark ML, XGBoost, and SHAP.
-	•	Created a domain look-alike model using Word2Vec for user behavior analysis.
-	•	Classified 30+ personas for 80M+ telecom users via geolocation and behavioral data.
-	•	Achieved Gini coefficient of 0.6 in credit scoring models.
-	•	Tools: Python, Spark ML, Databricks, Airflow, Docker.
-Data Scientist | Bhumi Varta Technology, Jakarta | June 2020 – April 2021
-	•	Built ML models to expand client outlets from 100 to 200+ across Indonesia.
-	•	Improved Socio Economic Status module accuracy using CNN on satellite imagery.
-	•	Tools: PyTorch, TensorFlow, AWS, Tableau.
-Data Analyst | SKK Migas, Jakarta | April 2016 – April 2018
-	•	Migrated data from 50+ oil/gas companies.
-	•	Created predictive models for oil/gas reserves with <10% test error.
-	•	Tools: Python, SQL, Tableau.
-
-EDUCATION Bandung Institute of Technology Bachelor of Science, Earth Science | Oct 2015
-	•	Graduated cum laude (GPA: 3.52/4).
-	•	Final Project: Geology & Static Reservoir Modeling of Petal Seam.
-
-SKILLS
-	•	Languages: Python, SQL, R, PySpark, Bash
-	•	Frameworks: PyTorch, TensorFlow
-	•	Tools: Dataiku, Snowflake, Spark, GCP, Azure, Docker, Airflow
-	•	Domains: ML Deployment, NLP, Computer Vision, Generative AI, ETL
-
-ACHIEVEMENTS
-	•	3rd Winner, National Geology Student Competition (2015)
-	•	2x TIB Dean’s Award for Academic Achievement
-
-PROJECTS
-	•	Disaster Response: NLP-based ELT pipeline for automated disaster message classification.
-	•	Bike Sharing: Deep learning model to predict bike usage patterns.
-	•	Retail Prediction: Models for customer spending and offer completion.
-
-COURSEWORK Machine Learning, Deep Neural Networks, NLP, Reinforcement Learning, Generative AI, Statistical Analysis.
